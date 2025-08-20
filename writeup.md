@@ -1,6 +1,7 @@
 # Assignment 0 Writeup
 
 **Name:** Mr. Berg 
+
 **Date:** 8.20.25
 
 ---
